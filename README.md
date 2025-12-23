@@ -51,6 +51,18 @@ responses (e.g. Binomial, Poisson, Beta).
   Oxford University Press.  
   > Standard reference for GEE and longitudinal models.
 
+##  Summary
+
+- **Quasi-Likelihood**  
+  Provides a likelihood-like motivation based only on the first two moments.
+
+- **GEE**  
+  Provides a robust, moment-based inferential framework for correlated data,
+  without requiring a likelihood or quasi-likelihood function.
+
+> In modern longitudinal modeling, quasi-likelihood motivates the mean–variance
+structure, while GEE delivers consistent and robust inference.
+
 
 ## Installation
 
